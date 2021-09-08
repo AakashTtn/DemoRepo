@@ -1,1 +1,1 @@
-This is file 1 inside lib
+This is file 1.
